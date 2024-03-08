@@ -1,0 +1,296 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2023.2_2 2023.06, Jun  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/shivansh/cpre381/Lab2
+T_opt
+!s110 1706804650
+Vg4Y^f1^SLI<H1PgmgUFQG0
+04 7 8 work tb_dffg behavior 1
+=1-7486e2283afa-65bbc5aa-bc1fd-3b533
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2023.2_2;77
+R1
+Edffg
+Z2 w1577987096
+Z3 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z4 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 0
+R1
+Z5 8/home/shivansh/cpre381/Lab2/dffg.vhd
+Z6 F/home/shivansh/cpre381/Lab2/dffg.vhd
+l0
+Z7 L23 1
+VaBn<3_7oIgIleFniVim733
+!s100 FJQDe;FGDG0KnNV;j4DaY2
+Z8 OL;C;2023.2_2;77
+32
+Z9 !s110 1706804614
+!i10b 1
+Z10 !s108 1706804614.000000
+Z11 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/dffg.vhd|
+Z12 !s107 /home/shivansh/cpre381/Lab2/dffg.vhd|
+!i113 0
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Amixed
+R3
+R4
+DEx4 work 4 dffg 0 22 aBn<3_7oIgIleFniVim733
+!i122 0
+l37
+L33 29
+VS_P?KDWPHzz@YT_fABo?Z0
+!s100 GR5ff]ZD1Yiz`>ZFVE>Hg1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Emem
+Z15 w1575899278
+Z16 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
+R3
+R4
+!i122 1
+R1
+Z17 8/home/shivansh/cpre381/Lab2/mem.vhd
+Z18 F/home/shivansh/cpre381/Lab2/mem.vhd
+l0
+L8 1
+VnYK75YT_DT9[l?ZQ16TI^1
+!s100 GF_U?1mjKdlzTC==@Eoi@2
+R8
+32
+Z19 !s110 1706804617
+!i10b 1
+Z20 !s108 1706804617.000000
+Z21 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/mem.vhd|
+Z22 !s107 /home/shivansh/cpre381/Lab2/mem.vhd|
+!i113 0
+R13
+R14
+Artl
+R16
+R3
+R4
+DEx4 work 3 mem 0 22 nYK75YT_DT9[l?ZQ16TI^1
+!i122 1
+l37
+L27 24
+V0P842]PUf?YimUc_z4@5J0
+!s100 h2oZ:n@5VDnM^B7>cA]W22
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R13
+R14
+Emux2t1
+Z23 w1707358043
+R3
+R4
+!i122 4
+R1
+Z24 8/home/shivansh/cpre381/Lab2/RegFile/mux2t1.vhd
+Z25 F/home/shivansh/cpre381/Lab2/RegFile/mux2t1.vhd
+l0
+L25 1
+VLn:J7FWb4:oE29aLDHRAm3
+!s100 GKYcgoZnBdVHN@P8UO:A_2
+R8
+32
+Z26 !s110 1708621769
+!i10b 1
+Z27 !s108 1708621769.000000
+Z28 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/RegFile/mux2t1.vhd|
+Z29 !s107 /home/shivansh/cpre381/Lab2/RegFile/mux2t1.vhd|
+!i113 0
+R13
+R14
+Ackt1
+R3
+R4
+DEx4 work 6 mux2t1 0 22 Ln:J7FWb4:oE29aLDHRAm3
+!i122 4
+l35
+L34 4
+VVP0B<kkJCa8>WdQPT8V2^3
+!s100 CUnjho^clGgTbJ9=jPKeL0
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 0
+R13
+R14
+Emux2t1_n
+Z30 w1708619845
+R3
+R4
+!i122 5
+R1
+Z31 8/home/shivansh/cpre381/Lab2/RegFile/mux2t1_N.vhd
+Z32 F/home/shivansh/cpre381/Lab2/RegFile/mux2t1_N.vhd
+l0
+L21 1
+VmY^3Z`LOeH:?DS5zXOWi]0
+!s100 Y80E^d;5=hf2cNC6Yk_Di1
+R8
+32
+Z33 !s110 1708621772
+!i10b 1
+Z34 !s108 1708621772.000000
+Z35 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/RegFile/mux2t1_N.vhd|
+Z36 !s107 /home/shivansh/cpre381/Lab2/RegFile/mux2t1_N.vhd|
+!i113 0
+R13
+R14
+Astructural
+R3
+R4
+DEx4 work 8 mux2t1_n 0 22 mY^3Z`LOeH:?DS5zXOWi]0
+!i122 5
+l39
+L30 21
+Vghh^edzIST4EAi324fiR[1
+!s100 `>^]M24jDEZ=7JFVDOOTo3
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 0
+R13
+R14
+Emux32t1
+Z37 w1708621833
+R3
+R4
+!i122 8
+R1
+Z38 8/home/shivansh/cpre381/Lab2/RegFile/mux32to1.vhd
+Z39 F/home/shivansh/cpre381/Lab2/RegFile/mux32to1.vhd
+l0
+L4 1
+V;[FTTAY=:lWA[1DlVL:HE3
+!s100 [G51<3mgN8QFcg7Z<@iPS2
+R8
+32
+Z40 !s110 1708621836
+!i10b 1
+Z41 !s108 1708621836.000000
+Z42 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/RegFile/mux32to1.vhd|
+Z43 !s107 /home/shivansh/cpre381/Lab2/RegFile/mux32to1.vhd|
+!i113 0
+R13
+R14
+Amixed
+R3
+R4
+DEx4 work 7 mux32t1 0 22 ;[FTTAY=:lWA[1DlVL:HE3
+!i122 8
+l45
+L43 40
+VVHd0e8bAQfbA;_E9TOb=>1
+!s100 J1A[n4Jh]eW?DP[1]81<E0
+R8
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 0
+R13
+R14
+Etb_dffg
+Z44 w1580338086
+R3
+R4
+!i122 3
+R1
+Z45 8/home/shivansh/cpre381/Lab2/tb_dffg.vhd
+Z46 F/home/shivansh/cpre381/Lab2/tb_dffg.vhd
+l0
+R7
+VHKM7i>6A1eFcJ01]h841I1
+!s100 IGdLK1aaJ6EJ:3F@Z@m7P0
+R8
+32
+Z47 !s110 1706804620
+!i10b 1
+Z48 !s108 1706804620.000000
+Z49 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/tb_dffg.vhd|
+Z50 !s107 /home/shivansh/cpre381/Lab2/tb_dffg.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R3
+R4
+DEx4 work 7 tb_dffg 0 22 HKM7i>6A1eFcJ01]h841I1
+!i122 3
+l45
+L27 75
+VE?ZoU6O[N8JI`]bWUFHSL1
+!s100 Cb4=g3LoKFCiz2OW:ze9K2
+R8
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 0
+R13
+R14
+Etb_mux32to1
+w1708621688
+R3
+R4
+!i122 9
+R1
+8/home/shivansh/cpre381/Lab2/RegFile/tb_mux32to1.vhd
+F/home/shivansh/cpre381/Lab2/RegFile/tb_mux32to1.vhd
+l0
+L4 1
+Vl`j0?^Of^CD_Q[QSk?ZZg3
+!s100 8Mi@M8fKTYD9?_GAWm5Pg2
+R8
+32
+!s110 1708621840
+!i10b 1
+!s108 1708621840.000000
+!s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/RegFile/tb_mux32to1.vhd|
+!s107 /home/shivansh/cpre381/Lab2/RegFile/tb_mux32to1.vhd|
+!i113 0
+R13
+R14

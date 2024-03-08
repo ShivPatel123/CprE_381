@@ -1,0 +1,33 @@
+[N
+4
+3
+8 behavior
+1
+32 /home/shivansh/cpre381/Lab2/work
+2
+7 tb_dffg
+4
+9 gCLK_HPER
+]
+[G
+1
+2
+3
+1
+4
+0
+0
+0
+0
+8 8
+-128
+-16
+-6
+2
+0
+0
+0
+0
+0
+0
+]

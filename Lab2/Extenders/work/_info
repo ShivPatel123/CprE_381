@@ -1,0 +1,109 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/home/shivansh/cpre381/Lab2/Extenders
+T_opt
+!s110 1709801842
+V=F5UXz<L@chR2>H0=MUNW1
+04 21 8 work tb_bit_width_extender behavior 1
+=1-0050569beede-65e98172-83a66-9d1c
+R1
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2023.2_2;77
+Ebit_width_extender
+Z3 w1709801823
+Z4 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z5 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 11
+R2
+Z6 8/home/shivansh/cpre381/Lab2/Extenders/bit_width_extender.vhd
+Z7 F/home/shivansh/cpre381/Lab2/Extenders/bit_width_extender.vhd
+l0
+L4 1
+VfKY:An:P]jPlUkO^n;:AT2
+!s100 bQjQFDQaDXieEaI6g_nU<1
+Z8 OL;C;2023.2_2;77
+32
+Z9 !s110 1709801835
+!i10b 1
+Z10 !s108 1709801835.000000
+Z11 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/Extenders/bit_width_extender.vhd|
+Z12 !s107 /home/shivansh/cpre381/Lab2/Extenders/bit_width_extender.vhd|
+!i113 0
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R4
+R5
+DEx4 work 18 bit_width_extender 0 22 fKY:An:P]jPlUkO^n;:AT2
+!i122 11
+l13
+L11 6
+V??HWH45ZgR;PknV^PSZoE0
+!s100 92]G0Cllnn0VNKFS_n_<01
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Etb_bit_width_extender
+Z15 w1709801327
+R4
+R5
+!i122 12
+R2
+Z16 8/home/shivansh/cpre381/Lab2/Extenders/tb_bit_width_extender.vhd
+Z17 F/home/shivansh/cpre381/Lab2/Extenders/tb_bit_width_extender.vhd
+l0
+L4 1
+V:eKFdRPWiG:mb73CQF4f43
+!s100 7E7>Qo@E<Rfd0ZVLREHI`3
+R8
+32
+Z18 !s110 1709801836
+!i10b 1
+Z19 !s108 1709801836.000000
+Z20 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/Extenders/tb_bit_width_extender.vhd|
+Z21 !s107 /home/shivansh/cpre381/Lab2/Extenders/tb_bit_width_extender.vhd|
+!i113 0
+R13
+R14
+Abehavior
+R4
+R5
+DEx4 work 21 tb_bit_width_extender 0 22 :eKFdRPWiG:mb73CQF4f43
+!i122 12
+l26
+L8 55
+V:KRm3[0L?HPd3T5kh:B=?3
+!s100 H8zG>@<2gLo]i4UHfQ^P:0
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 0
+R13
+R14

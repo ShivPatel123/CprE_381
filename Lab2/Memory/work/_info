@@ -1,0 +1,111 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+!s11e vcom 2023.2_2 2023.06, Jun  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/home/shivansh/cpre381/Lab2/Memory
+T_opt
+!s110 1709799250
+VRhAd>;[hR7GBz7=;6RRjW1
+04 7 8 work tb_dmem behavior 1
+=1-0050569beede-65e97752-12a9-88d7
+R1
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2023.2_2;77
+Emem
+Z3 w1575899278
+Z4 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
+Z5 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z6 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 4
+R2
+Z7 8/home/shivansh/cpre381/Lab2/Memory/mem.vhd
+Z8 F/home/shivansh/cpre381/Lab2/Memory/mem.vhd
+l0
+L8 1
+VnYK75YT_DT9[l?ZQ16TI^1
+!s100 GF_U?1mjKdlzTC==@Eoi@2
+Z9 OL;C;2023.2_2;77
+32
+Z10 !s110 1709798238
+!i10b 1
+Z11 !s108 1709798238.000000
+Z12 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/Memory/mem.vhd|
+Z13 !s107 /home/shivansh/cpre381/Lab2/Memory/mem.vhd|
+!i113 0
+Z14 o-work work
+Z15 tExplicit 1 CvgOpt 0
+Artl
+R4
+R5
+R6
+DEx4 work 3 mem 0 22 nYK75YT_DT9[l?ZQ16TI^1
+!i122 4
+l37
+L27 24
+V0P842]PUf?YimUc_z4@5J0
+!s100 h2oZ:n@5VDnM^B7>cA]W22
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Etb_dmem
+Z16 w1709799220
+R5
+R6
+!i122 13
+R2
+Z17 8/home/shivansh/cpre381/Lab2/Memory/tb_dmem.vhd
+Z18 F/home/shivansh/cpre381/Lab2/Memory/tb_dmem.vhd
+l0
+L4 1
+VnLY_1OW`=Ma@K^PWF9i=X2
+!s100 FN1M;fLilc[6^@JGD>f1j1
+R9
+32
+Z19 !s110 1709799241
+!i10b 1
+Z20 !s108 1709799241.000000
+Z21 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab2/Memory/tb_dmem.vhd|
+Z22 !s107 /home/shivansh/cpre381/Lab2/Memory/tb_dmem.vhd|
+!i113 0
+R14
+R15
+Abehavior
+R5
+R6
+DEx4 work 7 tb_dmem 0 22 nLY_1OW`=Ma@K^PWF9i=X2
+!i122 13
+l40
+L8 148
+VL>4L`0eAZQ1f1zdISBh<O3
+!s100 ^AHoi11BbFW1D78A4D<1V1
+R9
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R14
+R15

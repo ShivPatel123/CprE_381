@@ -1,0 +1,33 @@
+[N
+4
+1
+40 /home/shivansh/cpre381/Lab2/RegFile/work
+3
+8 behavior
+2
+13 tb_demux5to32
+4
+9 gCLK_HPER
+]
+[G
+1
+2
+3
+1
+4
+0
+0
+0
+0
+8 8
+-128
+-16
+-6
+2
+0
+0
+0
+0
+0
+0
+]

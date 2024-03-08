@@ -1,0 +1,2258 @@
+# //  Questa Sim-64
+# //  Version 2023.2_2 linux_x86_64 Jun  9 2023
+# //
+# //  Copyright 1991-2023 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+cd /home/shivansh/cpre381/Lab1/Lab1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:24 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:13:24 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:13:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:28 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 10:13:28 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:30 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:13:30 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:31 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:13:31 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:32 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:13:33 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:35 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:13:35 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:37 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:13:37 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:39 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 10:13:40 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:41 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 10:13:41 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:43 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 10:13:43 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:44 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 10:13:44 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:13:46 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 10:13:46 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_tpu_mv_element -voptargs=+acc
+# vsim work.tb_tpu_mv_element -voptargs="+acc" 
+# Start time: 10:14:14 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd(102): (vopt-1134) Incompatible modes for port "oC" in component "Multiplier" when binding to entity "Multiplier".
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=1.
+# Error loading design
+# End time: 10:14:14 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim work.multiplier
+# vsim work.multiplier 
+# Start time: 10:15:01 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.multiplier(behavior)#1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 10:16:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 10:16:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 10:16:27 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 10:16:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 10:16:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Optimization canceled
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:37 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:16:38 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 10:16:38 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_tpu_mv_element
+# End time: 10:16:44 on Jan 25,2024, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 0
+# vsim work.tb_tpu_mv_element 
+# Start time: 10:16:44 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd(102): (vopt-1134) Incompatible modes for port "oC" in component "Multiplier" when binding to entity "Multiplier".
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 10:16:44 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:19:36 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:19:36 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.tb_tpu_mv_element -voptargs=+acc
+# vsim work.tb_tpu_mv_element -voptargs="+acc" 
+# Start time: 10:19:45 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd(102): (vopt-1134) Incompatible modes for port "oC" in component "Multiplier" when binding to entity "Multiplier".
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=1.
+# Error loading design
+# End time: 10:19:46 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:48 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:22:48 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:49 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 10:22:49 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:52 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:22:52 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:53 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:22:53 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:56 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:22:56 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:58 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 10:22:58 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:22:59 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 10:22:59 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:23:01 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 10:23:01 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:23:02 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 10:23:02 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:23:08 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 10:23:08 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:23:10 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 10:23:10 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.tb_tpu_mv_element
+# vsim -voptargs="+acc" work.tb_tpu_mv_element 
+# Start time: 10:23:21 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_tpu_mv_element(mixed)#1
+# Loading work.tpu_mv_element(structure)#1
+# Loading work.regld(behavior)#1
+# Loading work.reg(behavior)#1
+# Loading work.multiplier(behavior)#1
+# Loading work.adder(behavior)#1
+add wave -position insertpoint sim:/tb_tpu_mv_element/DUT0/*
+add wave sim:/tb_tpu_mv_element/*
+quit -sim
+# End time: 10:26:13 on Jan 25,2024, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 1
+vsim -voptargs=+acc work.tb_tpu_mv_element
+# vsim -voptargs="+acc" work.tb_tpu_mv_element 
+# Start time: 10:26:21 on Jan 25,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_tpu_mv_element(mixed)#1
+# Loading work.tpu_mv_element(structure)#1
+# Loading work.regld(behavior)#1
+# Loading work.reg(behavior)#1
+# Loading work.multiplier(behavior)#1
+# Loading work.adder(behavior)#1
+add wave sim:/tb_tpu_mv_element/*
+run
+run 300
+quit -sim
+# End time: 10:36:51 on Jan 25,2024, Elapsed time: 0:10:30
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.tb_tpu_mv_element
+# vsim -voptargs="+acc" work.tb_tpu_mv_element 
+# Start time: 10:39:24 on Jan 25,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_tpu_mv_element(mixed)#1
+# Loading work.tpu_mv_element(structure)#1
+# Loading work.regld(behavior)#1
+# Loading work.reg(behavior)#1
+# Loading work.multiplier(behavior)#1
+# Loading work.adder(behavior)#1
+add wave sim:/tb_tpu_mv_element/*
+add wave -position insertpoint  \
+sim:/tb_tpu_mv_element/DUT0/s_W \
+sim:/tb_tpu_mv_element/DUT0/s_X1 \
+sim:/tb_tpu_mv_element/DUT0/sX2 \
+sim:/tb_tpu_mv_element/DUT0/s_Y1 \
+sim:/tb_tpu_mv_element/DUT0/s_WxX
+run 200
+quit -sim
+# End time: 10:43:43 on Jan 25,2024, Elapsed time: 0:04:19
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:43:55 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 10:43:55 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:43:57 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 10:43:57 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:43:59 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 10:43:59 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:00 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 10:44:00 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:01 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 10:44:01 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:03 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 10:44:03 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:07 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 10:44:07 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 10:44:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:10 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 10:44:10 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:11 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 10:44:11 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 10:44:12 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 10:44:12 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.tb_tpu_mv_element
+# vsim -voptargs="+acc" work.tb_tpu_mv_element 
+# Start time: 10:44:19 on Jan 25,2024
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_tpu_mv_element(mixed)#1
+# Loading work.tpu_mv_element(structure)#1
+# Loading work.regld(behavior)#1
+# Loading work.reg(behavior)#1
+# Loading work.multiplier(behavior)#1
+# Loading work.adder(behavior)#1
+add wave -position insertpoint  \
+sim:/tb_tpu_mv_element/DUT0/iCLK \
+sim:/tb_tpu_mv_element/DUT0/iX \
+sim:/tb_tpu_mv_element/DUT0/iW \
+sim:/tb_tpu_mv_element/DUT0/iLdW \
+sim:/tb_tpu_mv_element/DUT0/iY \
+sim:/tb_tpu_mv_element/DUT0/oY \
+sim:/tb_tpu_mv_element/DUT0/oX \
+sim:/tb_tpu_mv_element/DUT0/s_W \
+sim:/tb_tpu_mv_element/DUT0/s_X1 \
+sim:/tb_tpu_mv_element/DUT0/sX2 \
+sim:/tb_tpu_mv_element/DUT0/s_Y1 \
+sim:/tb_tpu_mv_element/DUT0/s_WxX
+run 200
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:11 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:06:11 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:12 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 11:06:12 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:13 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 11:06:13 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 11:06:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 11:06:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:24 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 11:06:24 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:06:25 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 11:06:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 11:06:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:29 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 11:06:29 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:06:30 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 11:06:30 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+quit -sim
+# End time: 11:06:35 on Jan 25,2024, Elapsed time: 0:22:16
+# Errors: 0, Warnings: 1
+vsim -voptargs=+acc work.tb_tpu_mv_element
+# vsim -voptargs="+acc" work.tb_tpu_mv_element 
+# Start time: 11:06:41 on Jan 25,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_tpu_mv_element(mixed)#1
+# Loading work.tpu_mv_element(structure)#1
+# Loading work.regld(behavior)#1
+# Loading work.reg(behavior)#1
+# Loading work.multiplier(behavior)#1
+# Loading work.adder(behavior)#1
+add wave -position insertpoint  \
+sim:/tb_tpu_mv_element/DUT0/iCLK \
+sim:/tb_tpu_mv_element/DUT0/iX \
+sim:/tb_tpu_mv_element/DUT0/iW \
+sim:/tb_tpu_mv_element/DUT0/iLdW \
+sim:/tb_tpu_mv_element/DUT0/iY \
+sim:/tb_tpu_mv_element/DUT0/oY \
+sim:/tb_tpu_mv_element/DUT0/oX \
+sim:/tb_tpu_mv_element/DUT0/s_W \
+sim:/tb_tpu_mv_element/DUT0/s_X1 \
+sim:/tb_tpu_mv_element/DUT0/sX2 \
+sim:/tb_tpu_mv_element/DUT0/s_Y1 \
+sim:/tb_tpu_mv_element/DUT0/s_WxX
+run 100
+do tb_TPU_MV_Element.do
+quit -sim
+# End time: 11:24:14 on Jan 25,2024, Elapsed time: 0:17:33
+# Errors: 0, Warnings: 0
+vsim work.xorg2
+# vsim work.xorg2 
+# Start time: 11:30:56 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xorg2(dataflow)#1
+quit -sim
+# End time: 11:31:01 on Jan 25,2024, Elapsed time: 0:00:05
+# Errors: 0, Warnings: 0
+# Load canceled
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd(37): near "end": (vcom-1576) expecting ';'.
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(46): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(47): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(48): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error (suppressible): /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(57): (vcom-1141) Identifier "mux2t1" does not identify a component declaration.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(97): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(98): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(99): Integer literal 1 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Note: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(110): VHDL Compiler exiting
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 11:57:15 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:15 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 11:57:16 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:16 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:57:16 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:16 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 11:57:16 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd(37): near "end": (vcom-1576) expecting ';'.
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(46): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(47): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(48): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error (suppressible): /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(57): (vcom-1141) Identifier "mux2t1" does not identify a component declaration.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(97): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(98): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(99): Integer literal 1 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Note: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(110): VHDL Compiler exiting
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:57:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 11:57:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:08 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:58:08 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:08 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd(37): near "end": (vcom-1576) expecting ';'.
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(46): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(47): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(48): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error (suppressible): /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(57): (vcom-1141) Identifier "mux2t1" does not identify a component declaration.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(97): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(98): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(99): Integer literal 1 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Note: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(110): VHDL Compiler exiting
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:09 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 11:58:09 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:58:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# ** Error: /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd(37): near "end": (vcom-1576) expecting ';'.
+# End time: 11:58:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Load canceled
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:19 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:59:19 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 11:59:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 11:59:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 11:59:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 11:59:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# End time: 11:59:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:23 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 11:59:23 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:23 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 11:59:23 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:24 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 11:59:24 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 11:59:25 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 11:59:25 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# ** Error (suppressible): /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(57): (vcom-1141) Identifier "mux2t1" does not identify a component declaration.
+# ** Note: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(110): VHDL Compiler exiting
+# End time: 11:59:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:59:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 11:59:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:28 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 11:59:28 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 11:59:28 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# ** Error (suppressible): /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(57): (vcom-1141) Identifier "mux2t1" does not identify a component declaration.
+# ** Note: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(110): VHDL Compiler exiting
+# End time: 11:59:28 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:16 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:00:16 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:17 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 12:00:17 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:18 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:00:18 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 12:00:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 12:00:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 12:00:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:23 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 12:00:23 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:23 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# End time: 12:00:23 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:23 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 12:00:24 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:24 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 12:00:24 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 12:00:25 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:00:26 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:00:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:26 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:00:26 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 12:00:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:27 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 12:00:27 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:29 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 12:00:29 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:30 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:00:30 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:30 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 12:00:30 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:00:31 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:00:31 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vsim work.tb_mux2t1 -voptargs=+acc
+# vsim work.tb_mux2t1 -voptargs="+acc" 
+# Start time: 12:00:41 on Jan 25,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_mux2t1(mixed)#1
+# Loading work.mux2t1(ckt1)#1
+add wave -position insertpoint  \
+sim:/tb_mux2t1/DUT0/i_S \
+sim:/tb_mux2t1/DUT0/i_D0 \
+sim:/tb_mux2t1/DUT0/i_D1 \
+sim:/tb_mux2t1/DUT0/o_O
+run 100
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:01:25 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:01:25 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Optimization canceled
+quit -sim
+# End time: 12:01:33 on Jan 25,2024, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 1
+vsim -voptargs=+acc work.tb_mux2t1
+# vsim -voptargs="+acc" work.tb_mux2t1 
+# Start time: 12:01:40 on Jan 25,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_mux2t1(mixed)#1
+# Loading work.mux2t1(ckt1)#1
+add wave -position insertpoint  \
+sim:/tb_mux2t1/DUT0/i_S \
+sim:/tb_mux2t1/DUT0/i_D0 \
+sim:/tb_mux2t1/DUT0/i_D1 \
+sim:/tb_mux2t1/DUT0/o_O
+run 100
+quit -sim
+# End time: 12:02:14 on Jan 25,2024, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:20 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 12:02:20 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder
+# -- Compiling architecture behavior of Adder
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/andg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity andg2
+# -- Compiling architecture dataflow of andg2
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/invg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity invg
+# -- Compiling architecture dataflow of invg
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Multiplier.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Multiplier
+# -- Compiling architecture behavior of Multiplier
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1
+# -- Compiling architecture ckt1 of mux2t1
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/RegLd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegLd
+# -- Compiling architecture behavior of RegLd
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_mux2t1.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_mux2t1
+# -- Compiling architecture mixed of tb_mux2t1
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_textio
+# -- Loading package ENV
+# ** Warning: /home/shivansh/cpre381/Lab1/Lab1/tb_TPU_MV_Element.vhd(17): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+# -- Compiling entity tb_TPU_MV_Element
+# -- Compiling architecture mixed of tb_TPU_MV_Element
+# End time: 12:02:21 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:21 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/TPU_MV_Element.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TPU_MV_Element
+# -- Compiling architecture structure of TPU_MV_Element
+# End time: 12:02:22 on Jan 25,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/xorg2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity xorg2
+# -- Compiling architecture dataflow of xorg2
+# End time: 12:02:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg
+# -- Compiling architecture behavior of Reg
+# End time: 12:02:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/org2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity org2
+# -- Compiling architecture dataflow of org2
+# End time: 12:02:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd
+# QuestaSim-64 vcom 2023.2_2 Compiler 2023.06 Jun  9 2023
+# Start time: 12:02:22 on Jan 25,2024
+# vcom -reportprogress 300 -work work /home/shivansh/cpre381/Lab1/Lab1/mux2t1_N.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux2t1_N
+# -- Compiling architecture structural of mux2t1_N
+# End time: 12:02:22 on Jan 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -voptargs=+acc work.tb_mux2t1
+# vsim -voptargs="+acc" work.tb_mux2t1 
+# Start time: 12:02:31 on Jan 25,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading std.env(body)
+# Loading work.tb_mux2t1(mixed)#1
+# Loading work.mux2t1(ckt1)#1
+add wave -position insertpoint  \
+sim:/tb_mux2t1/gCLK_HPER \
+sim:/tb_mux2t1/CLK \
+sim:/tb_mux2t1/reset \
+sim:/tb_mux2t1/s_iS \
+sim:/tb_mux2t1/s_iD0 \
+sim:/tb_mux2t1/s_iD1 \
+sim:/tb_mux2t1/s_oO \
+sim:/tb_mux2t1/cCLK_PER
+run 100
+# End time: 12:03:18 on Jan 25,2024, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 0
