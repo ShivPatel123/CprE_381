@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------
+-- Shivansh
+-- Department of Electrical and Computer Engineering
+-- Iowa State University
+-------------------------------------------------------------------------
+
+
+-- two_to_one_mux.vhd
+-------------------------------------------------------------------------
+-- DESCRIPTION: This file contains an implementation of two input mux. 
+--
+--
+-- NOTES: Integer data type is not typically useful when doing hardware
+-- design. We use it here for simplicity, but in future labs it will be
+-- important to switch to std_logic_vector types and associated math
+-- libraries (e.g. signed, unsigned). 
+
+
+-- 1/25/24
+-------------------------------------------------------------------------
+
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity two_to_one_mux is
+
+  port(i_S             : in std_logic;
+       i_D0               : in std_logic;
+       i_D1               : in std_logic;
+       o_O               : out std_logic);
+
+end two_to_one_mux;
+
+architecture behavior of two_to_one_mux is
+begin
+
+  process(i_S, i_D0, i_D1)
+  o_O <= 
+  end process;
+  
+end behavior;

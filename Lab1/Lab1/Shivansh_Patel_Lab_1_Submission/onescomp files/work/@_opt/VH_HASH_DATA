@@ -1,0 +1,53 @@
+[N
+7
+4
+1 N
+6
+5 mixed
+5
+13 tb_onescomp_n
+1
+52 /home/shivansh/cpre381/Lab1/Lab1/onescomp files/work
+3
+10 structural
+7
+9 gCLK_HPER
+2
+10 onescomp_n
+]
+[G
+1
+2
+3
+1
+4
+1
+0
+32
+0
+0 0
+0
+0
+]
+[G
+1
+5
+6
+1
+7
+0
+0
+0
+0
+8 8
+-128
+-106
+-104
+0
+0
+0
+0
+0
+0
+0
+]

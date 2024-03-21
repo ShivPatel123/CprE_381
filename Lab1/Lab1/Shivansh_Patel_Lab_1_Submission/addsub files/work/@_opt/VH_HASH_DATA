@@ -1,0 +1,51 @@
+[N
+6
+2
+17 addersubtractor_n
+4
+1 N
+3
+5 mixed
+5
+20 tb_addersubtractor_n
+1
+50 /home/shivansh/cpre381/Lab1/Lab1/addsub files/work
+6
+9 gCLK_HPER
+]
+[G
+1
+2
+3
+1
+4
+1
+0
+32
+0
+0 0
+0
+0
+]
+[G
+1
+5
+3
+1
+6
+0
+0
+0
+0
+8 8
+-128
+-106
+-104
+0
+0
+0
+0
+0
+0
+0
+]

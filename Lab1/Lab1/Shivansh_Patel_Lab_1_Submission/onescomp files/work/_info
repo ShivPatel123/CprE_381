@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11e vcom 2023.2_2 2023.06, Jun  9 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/shivansh/cpre381/Lab1/Lab1/onescomp files
+T_opt
+!s110 1707379769
+VlF^FdOz`0T:IN;SaH3SAN2
+Z2 04 13 5 work tb_onescomp_n mixed 1
+=1-0050569bac48-65c48c39-65f0d-9a7b
+R0
+Z3 !s12b OEM100
+Z4 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2023.2_2;77
+R1
+T_opt1
+!s110 1707379792
+VMj5iE<KbH=7`<:afoi4[e3
+R2
+=1-0050569bac48-65c48c4f-e4a4b-9ad5
+R0
+R3
+R4
+o-quiet -auto_acc_if_foreign -work work +acc
+R5
+n@_opt1
+R6
+Eonescomp_n
+Z7 w1707379252
+Z8 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z9 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 1
+R1
+Z10 8/home/shivansh/cpre381/Lab1/Lab1/onescomp files/onescomp_N.vhd
+Z11 F/home/shivansh/cpre381/Lab1/Lab1/onescomp files/onescomp_N.vhd
+l0
+L21 1
+VB8<RWme20CW^QCE9_>QAc2
+!s100 5KV0<]R1oJzS@dKIDjnD[1
+Z12 OL;C;2023.2_2;77
+32
+Z13 !s110 1707379696
+!i10b 1
+Z14 !s108 1707379696.000000
+Z15 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab1/Lab1/onescomp files/onescomp_N.vhd|
+Z16 !s107 /home/shivansh/cpre381/Lab1/Lab1/onescomp files/onescomp_N.vhd|
+!i113 0
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructural
+R8
+R9
+DEx4 work 10 onescomp_n 0 22 B8<RWme20CW^QCE9_>QAc2
+!i122 1
+l29
+L28 6
+VBnTJS=z^N9U:i9HR`gDkc0
+!s100 XcP2^?n`CdD0FRznEmRIc1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Etb_onescomp_n
+Z19 w1707379759
+Z20 DPx3 std 3 env 0 22 QPZJVBPkV?55nUWhDzFik0
+Z21 DPx4 ieee 16 std_logic_textio 0 22 C8j>g0lzF^EAA]5<S6PY32
+R8
+R9
+!i122 4
+R1
+Z22 8/home/shivansh/cpre381/Lab1/Lab1/onescomp files/tb_onescomp_N.vhd
+Z23 F/home/shivansh/cpre381/Lab1/Lab1/onescomp files/tb_onescomp_N.vhd
+l0
+L24 1
+V085[OnEA`Cd7M90^zZ]Ab2
+!s100 >TTKXQYajf6nci>o5F^223
+R12
+32
+Z24 !s110 1707379765
+!i10b 1
+Z25 !s108 1707379765.000000
+Z26 !s90 -reportprogress|300|-work|work|/home/shivansh/cpre381/Lab1/Lab1/onescomp files/tb_onescomp_N.vhd|
+Z27 !s107 /home/shivansh/cpre381/Lab1/Lab1/onescomp files/tb_onescomp_N.vhd|
+!i113 0
+R17
+R18
+Amixed
+R20
+R21
+R8
+R9
+DEx4 work 13 tb_onescomp_n 0 22 085[OnEA`Cd7M90^zZ]Ab2
+!i122 4
+l55
+L28 65
+VjffOoheo8S4bYOe<NimSR1
+!s100 [f7RWUMU6_Eae^93E1<zH0
+R12
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 0
+R17
+R18

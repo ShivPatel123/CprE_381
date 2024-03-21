@@ -1,0 +1,41 @@
+[N
+5
+5
+10 ADDR_WIDTH
+3
+3 rtl
+1
+53 /home/shivansh/cpre381/Lab2/MySecondMipsDatapath/work
+4
+10 DATA_WIDTH
+2
+3 mem
+]
+[G
+1
+2
+3
+1
+5
+1
+0
+10
+0
+0 0
+0
+0
+]
+[G
+1
+2
+3
+1
+4
+1
+0
+8
+0
+0 0
+0
+0
+]
